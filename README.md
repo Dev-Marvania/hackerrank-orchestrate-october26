@@ -125,4 +125,4 @@ Create `code.zip` containing:
 ## Submission & Challenge URL
 
 HackerRank Orchestrate October 2026 Challenge:
-https://wwww.hackerrank.com/contests/hackerrank-orchestrate-october26/challenges/ghost-data-still-exists
+https://www.hackerrank.com/contests/hackerrank-orchestrate-october26/challenges/ghost-data-still-exists
