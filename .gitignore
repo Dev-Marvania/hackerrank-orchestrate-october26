@@ -1,0 +1,23 @@
+# Environment credentials
+.env
+*.env
+
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Submission archives
+code.zip
+agent-trace.zip
+*.zip
+*.tar.gz
+
+# OS artifacts
+.DS_Store
+Thumbs.db
